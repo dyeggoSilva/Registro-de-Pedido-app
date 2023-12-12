@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:3000';
+const apiUrl = 'https://registro-de-pedio-api.dyeggochocolat.repl.co';
     
 function criarPedido() {
     const pedido = document.getElementById('pedido').value;
